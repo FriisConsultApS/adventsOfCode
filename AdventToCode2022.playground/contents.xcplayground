@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='December 1st'/>
+        <page name='December 2nd'/>
+        <page name='December 3rd'/>
+        <page name='December 4th'/>
+        <page name='December 5th'/>
+    </pages>
+</playground>
